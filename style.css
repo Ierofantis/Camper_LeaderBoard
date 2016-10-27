@@ -1,0 +1,25 @@
+body {
+  font-family: 'Lato', sans-serif;
+  padding: 20px;
+}
+h1 {
+  font-weight: 900;
+  font-size: 60px;
+  text-align:center;
+}
+
+img{
+  width:80px;
+  border: 2px solid #381F0B;
+   border-radius: 4px
+}
+td{
+  padding:70px;
+  text-align:center;
+  
+}
+.btn {
+  padding:10px;
+  margin:6px;
+  
+}
